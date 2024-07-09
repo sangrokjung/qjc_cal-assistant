@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Make 웹훅 URL
-MAKE_WEBHOOK_URL = "YOUR_MAKE_WEBHOOK_URL"
+MAKE_WEBHOOK_URL = "https://hook.us1.make.com/y29icqye4b1nm9mjhwlp4qdodhbixpp4"
 
 st.title("Webhook Test")
 
